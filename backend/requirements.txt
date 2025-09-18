@@ -15,3 +15,14 @@ sqlalchemy
 pydantic
 python-multipart
 pymysql
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pydantic
+python-jose
+passlib[bcrypt]
+mysqlclient
+pymysql
+python-dotenv
+httpx

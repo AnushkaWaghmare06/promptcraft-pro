@@ -1,15 +1,11 @@
 import React from "react";
-import Dashboard from "./components/Dashboard.jsx";
-import GenerateProject from "./components/GenerateProject.jsx";
+import Dashboard from "./pages/Dashboard.jsx";
 
-function App() {
+export default function App() {
   return (
-    <div className="min-h-screen bg-gray-900 text-white">
-      <h1 className="text-3xl font-bold p-4">PromptCraft Pro</h1>
-      <GenerateProject />
+    <div>
+      <h1>App is running!</h1>
       <Dashboard />
     </div>
   );
 }
-
-export default App;
