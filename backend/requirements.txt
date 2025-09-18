@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+databases
+alembic
+httpx
+python-dotenv
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+pymysql
